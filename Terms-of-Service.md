@@ -1,8 +1,8 @@
 # **[Terms of Service of Announce Bot](https://top.gg/bot/765207869032366090)**
 
-Wen we say **Announce's team**/**We**/**Our**/**Us** in this terms, we mean the team that works on Announce.
+When we say **Announce's team**/**We**/**Our**/**Us** in this terms, we mean the team that works on Announce.
 
-Wen we say **Announce Bot**/**the bot** in this terms, we mean [Announce](https://top.gg/bot/765207869032366090).
+When we say **Announce Bot**/**the bot** in this terms, we mean [Announce](https://top.gg/bot/765207869032366090).
 
 <!---
 ---
